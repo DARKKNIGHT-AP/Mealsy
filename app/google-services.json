@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001469480251",
+    "project_id": "etpp-e8c14",
+    "storage_bucket": "etpp-e8c14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001469480251:android:d163b1f1874fcfd840bb1e",
+        "android_client_info": {
+          "package_name": "com.example.etpp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001469480251-atsfqordtgrouo9hq3i0aakpl1qsp3u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK0CyW8TwNg2i_frxAlKmQ2QxjhuYlqc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001469480251-atsfqordtgrouo9hq3i0aakpl1qsp3u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
